@@ -81,10 +81,9 @@ Linux • Cloud • Automation • AI Tools
 
 ## 🌐 Connect With Me
 
-🌍 Website: YOUR_WEBSITE  
-📩 Email: YOUR_EMAIL  
-🐦 Twitter / X: YOUR_HANDLE  
-💼 LinkedIn: YOUR_PROFILE  
+🌍 Website: wehack.in
+📩 Email: rithik@wehack.om
+🐦 Twitter / X:@baba79x
 
 ---
 
