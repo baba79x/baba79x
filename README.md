@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
-</p>
+#<p align="center">
+#  <img src="YOUR_BANNER_IMAGE_URL" width="100%" />
+#</p>
 
 <h1 align="center">Hey 👋 I'm Rithik Raj</h1>
 <h3 align="center">Cybersecurity • Growth Systems • Development</h3>
